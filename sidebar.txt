@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bgb:home|Door43 (bgb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bgb|d43-bgb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bgb/archive/master.zip|d43-bgb.zip]]
+
+**Recent Changes**
+{{changes>ns = bgb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bgb|Ethnologue data]]
+
